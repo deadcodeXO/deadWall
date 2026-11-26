@@ -1,0 +1,22 @@
+DB-IP Country Lite, November 2026
+Copyright DB-IP.com. Licensed under Creative Commons Attribution 4.0 International
+(https://creativecommons.org/licenses/by/4.0/). Unmodified gzip CSV.
+Source: https://db-ip.com/db/lite.php
+
+Natural Earth coastline and country label points
+Public domain. https://www.naturalearthdata.com/about/terms-of-use/
+Coastline from Natural Earth vector v5.1.2, simplified to two decimal places:
+https://github.com/nvkelso/natural-earth-vector/blob/v5.1.2/geojson/ne_110m_coastline.geojson
+
+Country display names and continent codes from countries-list by Annexare Studio.
+MIT license, reproduced in LICENSE-countries-list.txt.
+
+Inter typeface
+Copyright 2020 The Inter Project Authors.
+Licensed under the SIL Open Font License 1.1. See OFL-Inter.txt.
+Source: https://github.com/google/fonts/tree/main/ofl/inter
+
+World basemap
+Natural Earth 1:110m Admin 0 Countries, v5.1.2 project tag. Public domain.
+Rasterized locally into the light and dark palettes.
+https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/

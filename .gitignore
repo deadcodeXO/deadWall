@@ -1,0 +1,9 @@
+/target/
+/desktop/src-tauri/target/
+/desktop/src-tauri/gen/schemas/
+/desktop/.git-scaffold-backup/
+*.tsbuildinfo
+*.log
+.env
+.env.*
+!.env.example
